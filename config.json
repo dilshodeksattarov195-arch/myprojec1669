@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippinguelete",
+        "uuid": 13999572,
+        "checksum": "71j6go"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
